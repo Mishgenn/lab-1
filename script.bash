@@ -1,7 +1,5 @@
 #!/bin/bash
 
-read name
 
-
-echo "Welcome, $name"
+echo "Welcome, $*"
 
