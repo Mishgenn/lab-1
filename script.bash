@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-echo "Welcome,"
+echo "Welcome, $*"
 
